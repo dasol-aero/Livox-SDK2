@@ -16,6 +16,9 @@ Click to see the original [README.md](./README_ORIGINAL.md)
   mkdir build && cd build
   cmake .. && make -j
   sudo make install
+
+  # ldconfig
+  sudo ldconfig
   ```
 
 ---
